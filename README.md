@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Data Science
+- 👯 I’m looking to collaborate on ML/DL
+- 💬 Ask me about Python, Data Science
+- 📫 How to reach me: [(http://www.w3.org/2000/svg)]
+
+
 [![Spotify](https://novatorem.arunkothari84.vercel.app/api/spotify)](https://open.spotify.com/user/arunkothari84)
 
 <!--
@@ -7,12 +13,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+- 🌱 I’m currently learning 
+
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
