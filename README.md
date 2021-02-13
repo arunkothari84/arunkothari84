@@ -3,7 +3,10 @@
 - 🔭 I’m currently working on Data Science
 - 👯 I’m looking to collaborate on ML/DL
 - 💬 Ask me about Python, Data Science
-- 📫 How to reach me: [(http://www.w3.org/2000/svg)]
+- 📫 How to reach me: [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/arunkothari84"
 
 
 [![Spotify](https://novatorem.arunkothari84.vercel.app/api/spotify)](https://open.spotify.com/user/arunkothari84)
