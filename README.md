@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Spotify](https://novatorem-jade-psi.vercel.app//api/spotify)](https://open.spotify.com/user/arunkothari84)
+[![Spotify](https://novatorem.arunkothari84.vercel.app/api/spotify)](https://open.spotify.com/user/arunkothari84)
 
 <!--
 **arunkothari84/arunkothari84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
