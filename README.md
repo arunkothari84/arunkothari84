@@ -68,4 +68,4 @@
 <a href="mailto:arunkothari84@gmail.com?subject=Hello! I saw you on GitHub!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=arunkothari8&color=ff00ff&lcolor=00ff00&logo=GitHub)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=arunkothari84&color=ff00ff&lcolor=00ff00&logo=GitHub)
